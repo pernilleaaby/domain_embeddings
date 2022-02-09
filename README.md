@@ -1,4 +1,4 @@
-# Domain adopted word embeddings from BERT
+# Domain-adopted word embeddings from BERT
 
 Create a subset of word embeddings from pdf-file/ txt-file text with BERT. 
 
